@@ -1,6 +1,8 @@
 # Portfolio-build-deployment-Doc
 Its a description of How I build and deployed my portfolio website on AWS S3 + CloudFront
 
+`project live at - https://d1ua0n7d5gbns6.cloudfront.net/`
+
 Link to private repo for authorized users : `github.com/Ashut2/Ashu-portfolio`
 # Ashutosh Shukla — DevOps Portfolio
 
